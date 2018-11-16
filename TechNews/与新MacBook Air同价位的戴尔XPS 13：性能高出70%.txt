@@ -1,0 +1,40 @@
+           与新MacBook Air同价位的戴尔XPS 13：性能高出70%
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　苹果发布了新一代MacBook Air，Retina视网膜屏幕、新的处理器、窄边框、TouchID等均未欠奉，只是，1199美元的起步价（国行9499元）还是超出了一些潜在购买者的预期。据PCworld整理，此次MBA配备的是来自Intel的i5-8210Y双核处理器，属于8代酷睿中的“Amber Lake”家族，也就是早年的“Core M”，功耗仅7瓦，频率1.6/3.6GHz。
+　　为了展示MBA糟糕的性价比，作者找来同价位（1077美元）的戴尔XPS 13 9370，它搭载i5-8250U、8GB内存、256GB SSD，重量和新MBA一致，都是2.7磅。
+　　放在同一套基准且苹果偏爱的GeekBench 4.3数据中，XPS 13比新MBA领先了70%左右的多核性能。
+　　不过，由于峰值频率不及i5-8210Y，单核测试中，XPS 13略占下风。
+　　仔细对比子项发现，i5-8250U的AEC密码成绩很高，但PDF渲染不如新处理器。
+　　那么问题来了，在两套操作系统平台都能接受的情况下，你倾向于选择谁呢？
+
+
+
+
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

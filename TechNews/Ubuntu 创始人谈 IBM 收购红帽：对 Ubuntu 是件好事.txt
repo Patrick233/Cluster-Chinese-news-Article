@@ -1,0 +1,19 @@
+           Ubuntu 创始人谈 IBM 收购红帽：对 Ubuntu 是件好事
+
+
+想知道 Ubuntu 创始人 Mark Shuttleworth 对 IBM 收购 Red Hat 的看法？他除了认为这笔交易是开源史上的“标志性事件”，还有别的什么观点呢？Ubuntu 创始人在一篇简短而尖锐的博文中分享了他对 IBM 这次“改变游戏规则”的收购行为的看法。 这位自由软件的粉丝认为这笔交易标志着“开源进入主流的重要时刻”。我们对 Mark Shuttleworth 的这个看法毫无异议 —— 毕竟曾经很长一段时间大家只是将开源视为外部选择。现在，多亏 Red Hat 和 Canonical 等公司，使得开源逐渐变成了事实上的选择。虽然 Ubuntu 也是 Red Hat 的竞争对手，但 Shuttleworth 对 Ubuntu 作为 Red Hat 竞争对手的地位感到乐观。特别是在云计算领域（IBM 以 340 亿美元收购 Red Hat 反映了其主要市场动力）。Shuttleworth 写到：“RHEL 增长率的下降与 Linux 更广泛的加速发展相比，可以说是下一波开源浪潮的强劲市场指标 。”Shuttleworth 表示，在企业领域，从物联网、公共云和 Kubernetes 到机器学习和人工智能等所有领域，Ubuntu 背后都有着“加速的势头” —— 而 IBM 和 Red Hat 的所有部门则希望双方的结合能够从中获得更多的市场份额。在 Shuttleworth 看来，很多公司不只是使用 Ubuntu，但他们选择了 Ubuntu，这又是一个不会被 IBM 的交易打败的信心：“我们确信 Ubuntu 被认为是世界上最安全、最具成本效益和最忠实的开源计划工具。我们期待能够帮助其他公司去实现未来增长所依赖的创新。”虽然 Mark Shuttleworth 的观点与桌面问题并没十分相关，但他的观点值得我们去阅读。令人欣慰的是，他们觉得 Ubuntu 仍然有很多可以提供的价值，而不是对开源史上最大的交易暗示什么或感到悲观。那么最后问题来了，在一个争取成为最大、最好和最丰富的开源软件公司的游戏中，拥有更广泛受众的 FOSS 社区是否会输掉？ 
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

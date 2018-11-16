@@ -1,0 +1,49 @@
+           微软Surface遭遇Type Cover键盘保护套停止工作问题
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　本文来自cnBeta.COM
+　　微软的 Surface 家族，无疑是最具代表性的 Windows 10 设备。遗憾的是，它总有一些让人头疼的毛病。不过这一次，问题并非出现在设备本身，而是 Type Cover 键盘保护套上。据外媒报道，一些用户在官方社区论坛上发帖称，他们的 Type Cover 会突然停止工作，但又找不出确切的原因。
+
+　　据说 Surface Pro 3 / 4 深受影响，而微软在 Patch Tuesday 当天发布的补丁，被认为是罪魁祸首。
+
+有几家企业尝试与微软取得了联系，但鉴于绝大部分的客户设备已经过保，傲慢的软件巨头只提出了昂贵的解决方案 —— 全面替换掉问题产品。
+
+　　某位用户解释到：“在尝试纯净安装后，并没有修复这个问题，我只得将 Surface 带到微软商店”。
+
+在确定 Type Cover 没有问题之后，他们花了一天时间来运行诊断程序，并且再次进行了纯净安装。
+遗憾的是，即便他们使用了一般公众无法使用到的工具，仍然未能修复问题。
+于是他们建议我支付超期保修费（450 美元），以便换取一台全新的 Surface 4 设备。
+
+　　目前来看，问题似乎并非出现在硬件层面。键盘没有彻底挂掉，系统显示其已连接，但就是用不了。
+
+此时唯一的解决方案，就是让 Surface Pro 完全耗尽电池。运气好的话，它会以某种方式来重置 Type Cover 。
+然而这只能暂时修复错误，因为它偶尔还是会重现。
+
+　　虽然官方暂未给出明确的解决方案，但我们还是建议遇到问题的用户联系官方支持团队，以促使其作出改进。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

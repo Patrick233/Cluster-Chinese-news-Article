@@ -1,0 +1,37 @@
+           微软推出新版Surface Go 中间定位售价499美元
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　微软今年公布了Surface Go设备，这款产品可以看作是苹果iPad的竞争对手，在国内售价3000-4000元档位，但采用X86架构所以可以使用大多数办公软件，相比Surface Pro更便携，价格也低一些。
+微软最近在美国官网上架了4GB 128GB存储的版本
+　　不过目前官方只有4GB 64GB存储版本和8GB 128GB存储版本，针对用户需求，微软最近在美国官网上架了4GB 128GB存储的版本，售价为499美元。不过目前国内还没有上架这个较大容量存储版本。
+目前国内还没这个版本
+　　一般来说64GB内存的确了有点小，尤其是系统会占据一定空间，如果是一般办公使用128GB已经捉襟见肘，64GB就需要随时搭配外置存储使用。因此，这个4+128的存储版本应该是针对用户需求的加入的。
+　　据国外媒体的说法，此前微软曾经公布过这个存储版本的Surface Go，不过是与Typer Cover捆绑销售的，现在，则是没有捆绑销售的独立版本。新版的Surface Go只在消费者SKU中出售。
+　　需要注意的是，微软实际上还准备了256GB存储版本，但还在开发当中，具体上市时间不清楚，传闻有可能是搭载了LTE网络的版本。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

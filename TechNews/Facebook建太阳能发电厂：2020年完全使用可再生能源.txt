@@ -1,0 +1,23 @@
+           Facebook建太阳能发电厂：2020年完全使用可再生能源
+
+
+
+　　新浪科技讯 北京时间11月5日早间消息，据彭博社报道，Facebook计划用田纳西州和阿拉巴马州最大的太阳能发电场，为阿拉巴马州亨茨维尔（Huntsville）的数据中心供电。
+　　美国田纳西河谷管理局（The Tennessee Valley Authority）为美国东南部7个州近1000万人供电。该政府机构和清洁能源企业NextEra Energy被选中，建设Facebook使用的太阳能发电场。建设的条款和时间表尚未公布。
+　　Facebook的相关声明显示，位于阿拉巴马州科尔波特郡的First Solar项目将提供227兆瓦的电力，位于田纳西州林肯郡的NextEra项目将提供150兆瓦的电力。
+　　Facebook希望，所有数据中心和办公室到2020年都采用可再生能源。该公司表示，与田纳西河谷管理局的合作，将让该公司位于当地的设施可以实现这个目标。(维金)
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

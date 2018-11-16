@@ -1,0 +1,37 @@
+           微星推出GM50游戏鼠标与GK60游戏键盘：针对玩家设计
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　近日，外设与板卡大厂微星正式推出了Clutch GM50 GAMING鼠标和Vigor GK60 GAMING键盘两款产品，正如其名，这两款产品是针对游戏玩家设计的。
+　　Clutch GM50 GAMING鼠标采用了轻巧设计，方便玩家在FPS游戏时快速移动；鼠标专为右撇子设计，最高CPI为7200，搭载欧姆龙微动，按键寿命超2000万次。
+　　鼠标也搭载了RGB信仰灯，可以使用配套软件进行控制，在鼠标左侧也有2个独立按键可供玩家自定义。
+　　Vigor GK60 GAMING键盘采用了铝制框架设计，樱桃原厂红轴，按键寿命超5000万次，WASD四颗按键进行了特殊设计，方便玩家操作定位。键盘支持背光，而且无需软件设置，可以直接在键盘上调整背光光效。
+　　Clutch GM50 GAMING鼠标和Vigor GK60 GAMING键盘将于2018年11月份上市。
+
+
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

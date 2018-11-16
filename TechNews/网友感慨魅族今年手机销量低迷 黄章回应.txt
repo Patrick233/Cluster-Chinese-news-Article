@@ -1,0 +1,37 @@
+           网友感慨魅族今年手机销量低迷 黄章回应
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　有网友在魅族社区发帖表示：“魅族Note 8、魅族V8、魅族X8京东评论加起来不超4000，魅族Note 8、魅族X8竟然只有几百的销量，今年销量难提了”。
+　　对此，魅族科技创始人黄章回应：别人疯的时候不跟别人一起疯，那些冲销量的基本都是赔本的买卖或者清库存。我们赔不起也没多少库存，情愿做小而美。
+　　值得一提的是，魅族科技今天宣布魅族Note 8焰红版将于11月5日上午10点由京东商城独家首发，售价1298元。
+　　该机定位“国民拍照手机”，它后置1200万+500万双摄像头，其中1200万主镜头为索尼IMX362，单位像素面积为1.4μm，支持Dual PD全像素双核对焦，光圈为F/1.9，配合虹软双摄算法，可拍出梦幻般人像大作。
+　　核心配置上，魅族Note 8采用6.0英寸18：9全面屏，分辨率为2160×1080，搭载高通骁龙632处理器，配备4GB内存+64GB存储，前置800万像素摄像头，加入了虹软美颜算法，电池容量为3600mAh。
+
+
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

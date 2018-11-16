@@ -1,0 +1,24 @@
+           Firefox硬件报告：Win 7份额下降 Win 10份额正上升
+
+
+
+　　来源：cnBeta
+　　早在2016年，Mozilla就推出了硬件报告。在报告中，这家非营利组织详细说明了Firefox客户端使用的硬件类型。 Firefox硬件报告是透明且公开的，任何人都可以访问它。 Mozilla从Firefox桌面浏览器的遥测系统收集的非敏感数据显示，Windows 10现在是最常用的操作系统。在2018年10月的硬件报告中，Mozilla指出，Windows 7和Windows 10是最受欢迎的操作系统，占用户的近80%。
+　　该报告还指出，Windows 10的市场份额正在上升，但Windows 7仍然表现强劲。该图表显示Windows 10的份额为40.696%，而Windows 7在Firefox平台上的市场份额为40.401%。Firefox硬件报告表示：“Windows 7和Windows 10是最受欢迎的操作系统，占我们用户的近80%。虽然Windows 7正在趋于下滑，Windows 10正在趋势上升，但旧版本仍然占据首位。”
+　　StatCounter的一份报告显示，Windows 10在2月份取代了Windows 7，Windows 10的市场份额为51.96%，而且增长迅速。另一方面，NetMarketShare数据显示Windows 10现在才刚刚接近超越Windows 7。
+
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

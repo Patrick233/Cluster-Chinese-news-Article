@@ -1,0 +1,19 @@
+           Carl Pei回答用户关于一加6T的焦点问题：呼吸灯 耳机非必需品
+
+
+【TechWeb】下周一，国行版一加6T将会在深圳正式发布，而在此前，一加6T已经率先登陆了美国市场。一加6T在屏占比、屏下指纹识别等多方面做出了长足的提升，不过，也有用户提出了一些质疑。近期，一加联合创始人Carl Pei、产品经理Louis S针对部分消费者提出的焦点问题在一加海外论坛上进行了回应。对于取消呼吸灯功能，Carl Pei认为，为了将屏占比提升至最大化，一加6T取消了呼吸灯。不过，用户依旧可以通过点亮屏幕查看通知。对于采用Amoled屏幕却不支持息屏显示功能，一加称目前还在评判息屏显示功能的实用价值以及对功耗和续航的影响。至于一加6T为什么没有随机赠送耳机，Carl Pei认为耳机会提升单机价格，而用户大多拥有了更好的耳机，所以没必要造成不必要的浪费。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

@@ -1,0 +1,31 @@
+           三星可折叠手机继续曝光：屏幕已定
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+IT之家11月4日消息 三星即将在今年11月7日在美国旧金山举行开发者大会。根据此前的大量爆料消息，三星有望在会上带来传闻已久的可折叠手机。韩国媒体The Bell的爆料消息为我们带来了一些这款手机的具体细节。爆料称，三星可折叠手机的屏幕分别为4.6英寸、7.3英寸：主屏展开尺寸为7.3英寸，折叠状态下则会变得像一个4英寸屏的手机。这样的设计也带来了手机整体厚度和价格的增加。当然，这样激进的产品在第一年可能不会销售太多，大约会在100万部以内，首批手机的预产量可能会在10万部左右。此外，三星需要面对的问题还包括质量风险以及实际消费者需求。报道也提到，手机将搭载三星与谷歌合作的独特安卓UI。鉴于这款产品还存在许多不确定性，手机的发售时间可能会在Galaxy S10之后，三星可能会在接下来的开发者大会上先行展示手机的硬件设计和用户界面。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

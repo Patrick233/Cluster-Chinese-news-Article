@@ -1,0 +1,34 @@
+           Pixel 3被曝内存管理问题，谷歌回应未来修复
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　自谷歌发布Pixel 3系列机型以来，这两款机型重蹈了去年Pixel 2系列机型的bug门，相继曝出多长“刘海”、扬声器存在问题、内存管理存在问题等等。
+
+　　对于Pixel 3的内存管理问题，据9to5Google报道，谷歌已经确认Pixel 3系列上存在的内存管理问题，并计划在未来通过软件更新的方式对这个问题进行修复。
+　　根据之前的消息，Pixel 3系列机型上存在的内存管理问题表现为：从RAM中删除应用程序，重启或强行关闭应用，某些应用会关闭其他应用。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

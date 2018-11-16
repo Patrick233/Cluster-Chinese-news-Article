@@ -1,0 +1,41 @@
+           双十一买买买不耽误 大电池长续航手机推荐
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　一年一度买买买的日子“双十一”又近在眼前了，不知道大家有没有做好“吃土”的准备了呢？反正小编是已经给自己打好预防针了。在如此分秒必争的日子，稍一走神就可能错过一场超值的秒杀抢购，可是最可怕的就是手机续航不给力。值此“双十一”即将到来之际，新浪手机特地为大家介绍几款使你买买买不耽误的长续航手机，希望大家喜欢。
+　　ZTE中兴天机Axon 9 Pro（参数 报价 论坛 软件）
+　　参考价格：3999元
+　　中兴天机Axon系列一致是专为忙碌、高效的管理者，轻商务人群打造的高品质旗舰手机。8月30日，中兴在德国柏林国际展览中心的IFA展上发布新一代全球旗舰产品天机Axon9 Pro，并被外媒评为“最佳视效手机”，该机于10月12日在北京正式亮相，为国内消费者带来了独创的Axon Vision软硬件一体化视效解决方案等功能，拓宽手机视界，让用户真正乐享非凡体验。
+
+　　点击图片查看中兴天机Axon 9 Pro详细资料
+　　中兴天机Axon 9 Pro采用当下较为流行的外观设计，正面采用刘海屏，屏幕尺寸为6.21英寸屏幕比例18.7：9，分辨率为2248x1080，搭载高通骁龙845处理器，配备8GB运行内存，256GB机身存储，同时最高支持2TB存储卡扩展。该机内置4000毫安时大容量电池，支持IP68级防尘防水。同时，该机还内置超线性双扬声器，支持杜比全景声，搭载最新的Mifavor UI 6.0，还会为用户清理赘余的垃圾文件和碎片，有效避免系统卡顿，使操作更流畅。
+
+　　点击图片查看中兴天机Axon 9 Pro详细资料
+　　中兴天机Axon 9 Pro引入了AI智能快拍，后置搭载12MP+20MP像素的后置双摄像头，支持1.4um大像素，F1.75大光圈，OIS光学防抖和130度超大广角，轻松驾驭多人物运动状态下的大场景拍摄，带来更为宏大的视野。前置方面，天机Axon9 Pro提供一枚20MP像素的摄像头，支持前摄人像虚化。
+1 2 3 4 下一页
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

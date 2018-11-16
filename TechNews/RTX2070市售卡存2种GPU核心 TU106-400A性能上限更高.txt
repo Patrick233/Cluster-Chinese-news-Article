@@ -1,0 +1,44 @@
+           RTX2070市售卡存2种GPU核心 TU106-400A性能上限更高
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　早在RTX 2080显卡上市时，GPU-Z作者TPU就提醒，存在两种不同核心的RTX 2080，其中FE版比普通公版的超频能力更强。经拆解确认，RTX 2070同样存在这一现象，GPU分为TU106-400A和TU106-400，其中前者出厂频率更高，且性能峰值也更高。
+　　这就解释了，为什么同一品牌的RTX 2070显卡之间也存在价格差，多的可以千元（国外70~100美元左右）。
+　　Paulshardware在10月份的测试显示，TU106-400核心可以超频到TU-106A的水平，所以用户不必花冤枉钱。不过，前提是，你在买之前就能确认GPU核心。
+　　GamerNexus本周发布了一份更详细的测试，对比EVGA RTX 2070 Black和EVGA RTX 2070 XC Ultra，前者是TU106，后者是TU106A。
+　　无论是超频能力、温控、风噪水准以及游戏性能，TU106A的XC Ultra都比TU106的Black明显好，性能差异在5~12%左右。虽然TU106超频后可以看齐TU106A，但TU106A的天花板更高。
+
+
+　　超频测试
+
+　　游戏测试
+
+
+
+
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

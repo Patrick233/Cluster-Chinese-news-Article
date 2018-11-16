@@ -1,0 +1,19 @@
+           双11智能手机销量排行 小米8力压苹果华为 暂居单品销量榜榜首
+
+
+【TechWeb】双11大幕已经从11月1日起正式拉开，在竞争最为激烈的智能手机领域，各大厂商纷纷拿出让利促销的气势，力争在年末收割一波。京东商城作为各大手机厂商激战的主战场，也在每日更新着最新的战报。昨日，京东手机通讯官方微博发布了11月2日的手机销量战报。从品牌销量来看，小米、荣耀、苹果分列前三名，而第四到第十分别被华为、vivo、诺基亚、OPPO、魅族、天语以及飞利浦占领。一些我们常见的手机品牌，比如三星、锤子、努比亚、中兴和360等并未挤入前十。销售额方面，凭借着单机售价的昂贵，苹果顺利拿下头名，而销量巨大的小米位列次席，第三名责备华为收下。之后分别为荣耀、vivo、OPPO、三星、魅族、诺基亚以及锤子。单品销量排行榜上，近期降价促销势头强烈的小米8拿下冠军，iPhone XR第二、荣耀畅玩7C排名第三。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

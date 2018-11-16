@@ -1,0 +1,1 @@
+新浪科技讯 北京时间11月8日早间消息，据美国科技媒体The Verge报道，Facebook Messenger很快将允许用户撤回10分钟内发出的消息。有Twitter用户发现，在iOS端Messenger的191.0版本发布日志中，这项功能被列为“即将到来”。与WhatsApp的设计相比，Messenger的10分钟时间限制不算长，但意味着用户将可以修改此前发出消息中的错误。

@@ -1,0 +1,182 @@
+           神吐槽JR快看!现在轮到师弟当詹姆斯的乔丹了
+
+
+
+师弟一天不秀就浑身难受
+　　吐槽不停，欢乐不止，新浪NBA神吐槽栏目继续登场！
+
+
+
+				SinaPage.loadWidget({
+				    trigger: {
+				        id: 'wb01'
+				    },
+				    require: [
+        				{
+		        			url: "//n.sinaimg.cn/finance/fe/doT.min.js"
+		    			},
+						{
+							url: "//finance.sina.com.cn/other/src/sinapagewidgets/SinaPageWeibo2017.js"
+						}
+					],
+				    onAfterLoad: function () {
+						new SinaPageWeibo.WeiboCard({
+                        	wrap:'wb01',
+                        	id:'4302550741975240'
+                    	});
+				    }
+				});
+					
+				
+
+　　大家怎么叫随意吧：“爸 妈今天不在 晚上我们吃什么？” 马努掏出手机一查马刺赛程 “你们不是爱吃鸡柳么？走！”
+　　我不反对了：毕竟今天是新奥尔良口味的
+
+
+
+				SinaPage.loadWidget({
+				    trigger: {
+				        id: 'wb11'
+				    },
+				    require: [
+        				{
+		        			url: "//n.sinaimg.cn/finance/fe/doT.min.js"
+		    			},
+						{
+							url: "//finance.sina.com.cn/other/src/sinapagewidgets/SinaPageWeibo2017.js"
+						}
+					],
+				    onAfterLoad: function () {
+						new SinaPageWeibo.WeiboCard({
+                        	wrap:'wb11',
+                        	id:'4302559801431651'
+                    	});
+				    }
+				});
+					
+				
+
+　　香蕉船的光辉岁月：比得五年，帝收义子，汽车城德拉蒙德
+　　Surpass_李：父子局
+　　密尔沃基吕奉先：这两人给我的感觉就是汤姆和杰瑞，相爱相杀
+
+
+
+				SinaPage.loadWidget({
+				    trigger: {
+				        id: 'wb21'
+				    },
+				    require: [
+        				{
+		        			url: "//n.sinaimg.cn/finance/fe/doT.min.js"
+		    			},
+						{
+							url: "//finance.sina.com.cn/other/src/sinapagewidgets/SinaPageWeibo2017.js"
+						}
+					],
+				    onAfterLoad: function () {
+						new SinaPageWeibo.WeiboCard({
+                        	wrap:'wb21',
+                        	id:'4302576898422004'
+                    	});
+				    }
+				});
+					
+				
+
+　　般若波罗蜜相：德罗赞：是不是有病？老子幽默一下不行啊？
+　　g灬标：难怪马刺这么强，原来还有几个透明人
+　　Klaw_枫xxf：德罗赞：前天你不和我击掌，你以为我会原谅你？
+
+
+
+				SinaPage.loadWidget({
+				    trigger: {
+				        id: 'wb31'
+				    },
+				    require: [
+        				{
+		        			url: "//n.sinaimg.cn/finance/fe/doT.min.js"
+		    			},
+						{
+							url: "//finance.sina.com.cn/other/src/sinapagewidgets/SinaPageWeibo2017.js"
+						}
+					],
+				    onAfterLoad: function () {
+						new SinaPageWeibo.WeiboCard({
+                        	wrap:'wb31',
+                        	id:'4302582597564672'
+                    	});
+				    }
+				});
+					
+				
+
+　　张搞毛：师弟：jr，看好了，现在轮到我当乔丹了
+　　叫牙爷：师弟：新赛季新目标，我要周周五大囧
+
+
+
+				SinaPage.loadWidget({
+				    trigger: {
+				        id: 'wb41'
+				    },
+				    require: [
+        				{
+		        			url: "//n.sinaimg.cn/finance/fe/doT.min.js"
+		    			},
+						{
+							url: "//finance.sina.com.cn/other/src/sinapagewidgets/SinaPageWeibo2017.js"
+						}
+					],
+				    onAfterLoad: function () {
+						new SinaPageWeibo.WeiboCard({
+                        	wrap:'wb41',
+                        	id:'4302621361431289'
+                    	});
+				    }
+				});
+					
+				
+
+　　起个好名真费事：小姐姐：保罗。保罗。保罗
+　　Memory-依然特雷西：差点自己绊一跤
+
+
+
+				SinaPage.loadWidget({
+				    trigger: {
+				        id: 'wb51'
+				    },
+				    require: [
+        				{
+		        			url: "//n.sinaimg.cn/finance/fe/doT.min.js"
+		    			},
+						{
+							url: "//finance.sina.com.cn/other/src/sinapagewidgets/SinaPageWeibo2017.js"
+						}
+					],
+				    onAfterLoad: function () {
+						new SinaPageWeibo.WeiboCard({
+                        	wrap:'wb51',
+                        	id:'4302542999432589'
+                    	});
+				    }
+				});
+					
+				
+
+　　When---文：我们就这么有了两个总冠军中锋
+　　大大旭旭：这个钱德勒这把年纪了还在拼搏，那个钱德勒拿了那么大的合同还在泡妞呢
+　　丿见过海洋的流浪汉：因为太阳的副总裁是詹姆斯琼斯
+　　独楼静坐：打架有帮手了
+　　水西坝林雪：麦基：我。。。我是不是成了，我都有替补了。
+　　（所有言论均来自网友智慧，不代表新浪NBA观点）
+　　扫码关注新浪NBA公众号，获取最新最快的NBA资讯！
+
+声明：新浪网独家稿件，未经授权禁止转载！
+
+
+
+
+

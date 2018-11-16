@@ -1,0 +1,39 @@
+           欧洲家电品牌Gorenje进军中国市场 高端新品为主线
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+Gorenje发布多款高端家电新品
+　　11月5日，欧洲家电品牌Gorenje在北京举行新品发布会，面向中国市场推出多款高端家电新品。此次发布会也宣告着Gorenje正式进军中国高端家电市场。
+　　2017年，Gorenje营收达到13.1亿欧元，其中95%来自海外市场。随着Gorenje正式进军中国，接下来中国高端家电市场的竞争将会更加激烈。
+产品设计以简约为主
+　　Gorenje旗下产品设计以简约为主，得一提的是，它是全球第一个在家电领域引入电子触摸控制的制造商，也首次把色彩概念带入白色家电领域，并带动了彩色家电的普及。
+　　发布会上展出的几款新品都贯彻简约的风格，包括由法国知名设计师Philippe Starck设计的Gorenje Starck系列，该系列采用极简设计的镜面玻璃同时运用颜色细节，使得烤箱、冰箱、灶具与厨房融为一体。
+正式进军中国市场
+　　另外，由Ora ïto设计的“魔幻厨房”系列也在发布会上亮相，其中独立式两门冰箱采用黑白两色，纯黑和纯白双色玻璃搭配金属把手，整个冰箱线条简洁、流畅。除了超前的外观设计外，这款独立式两门冰箱采用AdaptTech自适应技术，智能识别用户使用习惯，无霜技术能够大大减少冷冻柜中结霜的可能性，保证食材更新鲜。
+　　此次发布会也宣告着Gorenje正式进入中国市场，对此Gorenje集团董事会主席Franjo Bobinac表示，进入中国市场是一个全球化发展的绝佳机会，尽管这个市场要求很高，我们已经准备好迎接这一挑战。Gorenje全系列产品将在2019年第一季度覆盖中国大多数授权零售商。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

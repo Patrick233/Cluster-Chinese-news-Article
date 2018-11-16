@@ -1,0 +1,19 @@
+           苹果美国官网上架官翻版iPhone 8 起售价不足3500元
+
+
+【TechWeb】苹果新品手机iPhone XS系列售价高昂，iPhone XR系列又有着能停航母的大黑边，对于想要购入苹果手机的消费者如何选择，目前成为了一道举步维艰的题目。在苹果官网下架iPhone X及iPhone 8系列后，日前，苹果美国官网上架了一批官翻版的64GB iPhone 8，售价为499美元，约合人民币3438元，比起之前在售的全新版599美元低了100美元，试图促进入门级iPhone的销售。不过，这批机器目前仅在苹果美国官网有售，苹果中国官网虽然同样提供官翻版机型售卖，但销售的产品仅包括Mac、iPad以及iPod系列老旧机型，iPhone 8目前暂未提供。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

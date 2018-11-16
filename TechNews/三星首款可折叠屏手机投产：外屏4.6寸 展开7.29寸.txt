@@ -1,0 +1,23 @@
+           三星首款可折叠屏手机投产：外屏4.6寸 展开7.29寸
+
+
+　　【环球网科技综合报道】据韩媒消息，三星的折叠屏手机已经定形，结束开发进入生产阶段，首批产能10万台，年产50-100万部左右。
+　　最终三星敲定的方案是：外屏4.6寸，内屏展开后是7.29英寸，都采用OLED材质，允许消费者在折叠后仍可以使用。
+　　据悉，折叠铰链由韩国KH Vatec操刀，其内部采用齿轮结构，可以支撑不同的角度，合并后，内屏几乎重叠在一起，缝隙很小。
+　　当然，两块屏幕也对续航和整机厚度/重量提出了新的考验。目前，三星折叠屏手机的具体发布日期仍是未知数，环球网科技将持续关注报道。
+
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

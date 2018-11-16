@@ -1,0 +1,22 @@
+           演员“大鹏”宣布从搜狐离职：怀念、感恩、祝福
+
+
+
+　　新浪科技讯 11月5日上午消息，大鹏（本名董成鹏）11月1日在其朋友圈宣布正式从搜狐离职，表示“怀念，感恩，祝福”，搜狐方面向新浪科技证实，大鹏确已离职。
+　　大鹏于2004年加入搜狐，在音乐频道做起了实习生。先后主持了搜狐视频《明星在线》、《大鹏嘚吧嘚》等多个节目。2012年，担任迷你喜剧《屌丝男士》的导演及编剧，总共推出4季，获得超过10亿的点击量。
+　　2015年，大鹏自编自导自演的喜剧电影《煎饼侠》上映，收获超过11亿票房。2017年其自编自导的喜剧电影《缝纫机乐队》上映，收获4.5亿票房。(泽宇)
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

@@ -1,0 +1,19 @@
+           新华社评论员：让民营企业吃下定心丸、安心谋发展
+
+
+　　新华社评论员发表文章称，企业轻装上阵，才能激发活力，在激烈的市场竞争中做大做强。针对民营企业普遍反映强烈的税费负担问题，要统筹运用减税降费、简政放权，打好企业降成本的组合拳。在税的方面，加大减税力度，推进增值税等实质性减税，简化操作流程，让企业得实惠；在费的方面，进一步精简行政审批事项和涉企收费，规范中间环节、中介组织行为，加快推进涉企行政事业性收费零收费，真正把企业成本降下来。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

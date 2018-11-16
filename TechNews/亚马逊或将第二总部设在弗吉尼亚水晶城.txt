@@ -1,0 +1,497 @@
+           亚马逊或将第二总部设在弗吉尼亚水晶城
+
+
+据《华盛顿邮报》报道，亚马逊很可能在美国弗吉尼亚州水晶城（Crystal City，Virginia）设置第二总部。有消息称，这家零售巨头已对此展开了“高级别的讨论”，有望为该市带来 5 个新工作岗位。尽管早前的传闻也曾提到过其它城市，但这一次的爆料更为详尽。亚马逊拒绝就此事发表评论，但公司首席执行官杰夫·贝索斯曾在纽约向听众透露。 当前总部所在地（via：Google）“最终，在收集和研究了大量数据后，我们会凭借直觉作出这样的决定。我所知的最佳方案，就是收集尽可能多的数据。你要让自己沉浸其中，然后用心作出决定”。消息人士称，房地产开发商 BG Smith 已将旗下部分资源从租赁市场上撤下，以期达成协议。若亚马逊确实搬到了这个城市，那初期可能有数百名员工搬到贝尔街南 1851 号（1851 S. Bell Street）、“1770 Crystal Drive”、或压力山大市 Potomac Yard 。在交易通过后，当地官员和亚马逊最早有望在本月的中期选举后宣布此事。[编译自：Neowin]
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+
+
+
+
+关键词 : 
+亚马逊水晶城总部
+
+
+我要反馈
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+新浪科技公众号
+“掌”握科技鲜闻  （微信搜索techsina或扫描左侧二维码关注）
+
+
+
+
+
+
+
+
+		(sinaads = window.sinaads || []).push({});
+	
+
+
+
+
+
+
+
+
+
+
+
+相关新闻
+
+
+
+
+
+
+
+
+
+
+加载中
+点击加载更多
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            .page-right-bar{bottom:50px;}
+            .zc-app-btn{position: relative;background: none;}
+            .zc-app-btn .zc-app{
+                display: block;
+                width: 65px;
+                height: 65px;
+                text-indent: -999em;
+                background-image: url(//n.sinaimg.cn/tech/zcapp2018/zc_new1x.png);
+                background-image:-webkit-image-set(url(//n.sinaimg.cn/tech/zcapp2018/zc_new1x.png) 1x,url(//n.sinaimg.cn/tech/zcapp2018/zc_new2x.png) 2x);
+            }
+            .zc-app-btn img{
+                display: none;
+                position: absolute;
+                right: 71px;
+                top: 0;
+                width: 123px;
+                height: 156px;
+                -webkit-transition:all .3s ease-out;
+                -moz-transition:all .3s ease-out;
+                transition:all .3s ease-out;
+            }
+        
+
+
+
+
+
+
+
+.seo_data_list{display:none!important;height:0!important;overflow:hidden!important;}
+
+
+
+
+创事记
+
+
+
+
+                        @@~it:value:index$$
+                        <li>
+                            <div class="pic">
+                                <a href=@@=value.url$$ target="_blank">
+                                    <img class="imgS" src=@@=value.pic$$>
+                                </a>
+                            </div>
+                            <div class="txt">
+                                <a class="con" href=@@=value.url$$ target="_blank">
+                                    @@=value.title$$
+                                </a>
+                                <a class="author" href=@@=value.url$$ target="_blank">
+                                    @@=value.author$$
+                                </a>
+                            </div>
+                        </li>
+                        @@~$$
+                    
+
+
+
+苹果、Google 和特斯拉：重塑十年后的汽车产业 谷歌全球大罢工！包庇“安卓之父”性骚扰惹众怒 贾跃亭，一个底层青年的摄心术、屠龙技与逆袭路
+
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+
+
+
+阅读排行榜
+评论排行榜
+
+
+
+
+
+
+
+
+        @@~it:value:index$$
+        <li class="clearfix">
+          @@?index==0 || index==1 || index==2$$
+          <span class="n-index first">0@@=index+1$$</span>
+          @@??$$
+          <span class="n-index">0@@=index+1$$</span>
+          @@?$$
+          <a class="txt" href=@@=value.url$$ target="_blank" title=@@=value.title$$>@@=value.title$$</a>
+        </li>
+        @@~$$
+      
+
+        @@~it:value:index$$
+        <li class="clearfix">
+          @@?index==0 || index==1 || index==2$$
+          <span class="n-index first">0@@=index+1$$</span>
+          @@??$$
+          <span class="n-index">0@@=index+1$$</span>
+          @@?$$
+          <a class="txt" href=@@=value.url$$ target="_blank" title=@@=value.title$$>@@=value.title$$</a>
+          <a class="count" href=@@=value.url$$ target="_blank">@@=value.num$$</a>
+        </li>
+        @@~$$
+      
+
+
+iG拿冠 “革命者”王思聪和他的电竞产业链 马斯克：为提高Model 3产量 员工每周都工作100小时 弦理论学家提出：宇宙暗能量数值并非处于恒定状态 薛定谔的猫跳进了生物学界 化学家:没有我可能办不到 统计显示iPhone印度销量暴跌：同比减幅达1/3 太空海盗警告：“骷髅星云”充满气体和新生恒星 就业方向变了！人工智能领域现百万年薪 S8决赛IG夺冠刷爆社交网站 中国电竞正一路崛起 刘强东案女大学生供词曝光 刘强东:你也可以像邓文迪 马斯克宣布洛杉矶隧道12月10日开通 还要进军德国 
+
+
+
+刘强东案更多细节曝光 受害女生:我再三恳求他别这样 苹果10月发布会：iPad终于去home键 Air和mini终更新 滴滴公布意见征求第1期反馈结果 顺风车仍无限期下线 如何避免大脑短路？用心理学分析重庆公交车坠江案 贾跃亭，一个底层青年的摄心术、屠龙技与逆袭路 柔宇科技柔派可折叠屏幕手机现场图赏 联想Z5 Pro发布：滑屏设计手机被拉到了2000元内 还在滥用抗生素？30年后每年或有1000万人因它而死！ 黑猫守护大使杨洋邀你一起点赞 传递消费维权正能量 传苹果2020年发布5G iPhone 英特尔正在为此努力 
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+
+
+
+科学探索
+
+
+
+
+                    @@~it:value:index$$
+
+                    <a title=@@=value.title$$ href=@@=value.url$$ target="_blank">
+                        <img class="imgS" src=@@=value.pic$$>
+                        <span class="title">@@=value.title$$</span>
+                    </a>
+                    @@~$$
+
+                    
+
+
+
+“骷髅星云”充满气体和新生恒星
+
+
+
+
+
+
+科学大家
+
+
+
+
+                    @@~it:value:index$$
+
+                    <a title=@@=value.title$$ href=@@=value.url$$ target="_blank">
+                        <img class="imgS" src=@@=value.pic$$>
+                        <span class="title">@@=value.title$$</span>
+                    </a>
+                    @@~$$
+
+                    
+
+
+
+如何避免大脑短路？用心理学分析重庆公交车...
+
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+
+
+
+苹果汇
+
+
+
+
+                    @@~it:value:index$$
+
+                    <a title=@@=value.title$$ href=@@=value.url$$ target="_blank">
+                        <img class="imgS" src=@@=value.pic$$>
+                        <span class="title">@@=value.title$$</span>
+                    </a>
+                    @@~$$
+
+                    
+
+
+
+苹果专利显示Mac将集成眼球追踪技术
+
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+
+
+
+众测
+
+
+
+
+                    @@~it:value:index$$
+
+                    <a title=@@=value.title$$ href=@@=value.url$$ target="_blank">
+                        <img class="imgS" src=@@=value.pic$$>
+                        <span class="title">@@=value.title$$</span>
+                    </a>
+                    @@~$$
+
+                    
+
+
+
+卓力增压智能挂烫机免费送
+
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+
+
+
+来电聊
+
+
+
+
+                    @@~it:value:index$$
+
+                    <a title=@@=value.title$$ href=@@=value.url$$ target="_blank">
+                        <img class="imgS" src=@@=value.pic$$>
+                        <span class="title">@@=value.title$$</span>
+                    </a>
+                    @@~$$
+
+                    
+
+
+
+2018科技风云榜正式启动
+
+
+
+
+
+
+(sinaads = window.sinaads || []).push({});
+
+
+
+
+
+(sinaads = window.sinaads || []).push({});
+
+
+
+
+
+专题
+
+
+
+
+                    @@~it:value:index$$
+
+                    <a title=@@=value.title$$ href=@@=value.url$$ target="_blank">
+                        <img class="imgS" src=@@=value.pic$$>
+                        <span class="title">@@=value.title$$</span>
+                    </a>
+                    @@~$$
+
+                    
+
+
+
+2018中关村论坛：全球化创新与高质量发展
+
+
+
+
+
+
+
+官方微博
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+公众号
+
+
+
+
+
+
+新浪科技
+新浪科技为你带来最新鲜的科技资讯
+
+
+
+苹果汇
+苹果汇为你带来最新鲜的苹果产品新闻
+
+
+
+新浪众测
+新酷产品第一时间免费试玩
+
+
+
+新浪探索
+提供最新的科学家新闻，精彩的震撼图片
+
+
+
+
+
+
+
+
+
+
+新浪科技意见反馈留言板
+电话：400-690-0000 欢迎批评指正
+
+新浪简介|广告服务|About Sina
+
+联系我们|招聘信息|通行证注册
+
+产品答疑|网站律师|SINA English
+
+Copyright © 1996-2018 SINA Corporation
+All Rights Reserved 新浪公司 版权所有
+
+
+
+
+
+
+
+
+
+(sinaads = window.sinaads || []).push({})
+
+
+

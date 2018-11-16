@@ -1,0 +1,55 @@
+           彭丽媛会见美国盖茨基金会联席主席比尔·盖茨
+
+
+
+
+
+				SINA_TEXT_PAGE_INFO['videoDatas0'] = [						{
+							ad_state: '1',
+							pid: '2',
+							video_id: 268864922,	//vid
+							pic: '//p.ivideo.sina.com.cn/video/268/864/922/268864922_400_300.jpg',		//节目列表小图
+							thumbUrl: '//p.ivideo.sina.com.cn/video/268/864/922/268864922_400_300.jpg',	//html5播放器上视频还未开始播显示的图片，可与pic相同
+							title: '彭丽媛会见美国盖茨基金会联席主席比尔·盖茨',	//标题
+							source: '',	//视频发布来源。如：新华网。
+							url: ''
+						}];
+				SinaPage.loadWidget({
+					trigger: {
+					id: 'videoList0'
+					},
+				require:[
+				{
+					url: "//sjs2.sinajs.cn/video/sinaplayer/js/page/player_v1.js"
+				},
+				{
+					url: "//finance.sina.com.cn/other/src/sinaPageVideo2017.js"
+				}
+				],
+				onAfterLoad: function () {
+					new SinaPageVideo({ 
+						 wrap:'videoList0',//播放器外层id 
+		 				videoList:SINA_TEXT_PAGE_INFO['videoDatas0']
+				 });
+			}
+			});
+		
+
+　　来源：央视网微博
+　　央视记者 王哈男
+　　国家主席习近平夫人、世界卫生组织结核病和艾滋病防治亲善大使彭丽媛5日在上海会见美国盖茨基金会联席主席比尔·盖茨。彭丽媛说，当前，中国致力于健康中国建设，实施精准扶贫，防止因病致贫、因病返贫，并积极参与全球卫生事业和健康治理。我们支持盖茨基金会继续同中方加强双方和三方合作，包括提高中国卫生人才能力建设和全球卫生专业队伍储备。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

@@ -1,0 +1,39 @@
+           这是荣耀V20？华为新机现身3C认证
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　麒麟980作为华为系手机的新“金字招牌”，似乎也在加快产品布局的速度。
+　　经查，国家3C认证库中出现了华为新机，型号分别为VCE-AL00和VCE-TL00，配备的充电器最大功率18W。
+　　有猜测称这款手机是荣耀V20，按照V系一贯的传统，大概率会搭载麒麟980芯片，并且有望成为市售最便宜的麒麟980手机。
+　　至于外形目前信息还不足，但考虑到华为品牌的当下布局、荣耀Magic 2的滑盖设计，荣耀V20采用水滴屏或者刘海屏的可能性无疑最高，当然，不排除会基于全面屏理念，取得新的突破。
+　　从时间节点来看，荣耀V20有望年前或者明年初发布，如果选择前者，那么无疑将进一步拉高华为2亿台年度出货量。
+　　荣耀V10的发售起步价（4+64GB）是2699元，大家认为V20会定多少呢？
+
+
+
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

@@ -1,0 +1,20 @@
+           证通电子：拟联合腾讯增资新三板企业盛灿科技
+
+
+　　新浪科技讯 11月5日晚间消息，证通电子发布公告称，公司拟与林芝腾讯共同认购盛灿科技发行股份。其中，证通电子拟出资2000.29万元，林芝腾讯拟出资1600.23万元。
+　　根据公告，证通电子在交易后对盛灿科技的持股由8.33%增至12.58%。盛灿科技由来自腾讯的资深互联网创始团队建立，是腾讯生态体系的战略合作伙伴之一。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

@@ -1,0 +1,37 @@
+           三星Note 9纯白色版本现身：令人“心动”的配色
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　上个月，三星Galaxy Note 9计划将在美国市场推出全新的银色版本，其内置的S Pen也采用了银色配色。现在，三星Note 9纯白色版本也现身了。
+　　今天凌晨，爆料达人@evleaks放出了一张三星Note 9纯白版本的渲染图，其他方面信息并未透露。
+　　如下图所示，三星Note 9纯白色版本整体以白色为主，银色的金属边框点缀，在众多渐变色手机中，三星Note 9纯白色版本多了一份淳朴和简约美，还是很令人心动的。
+　　三星Galaxy Note 9目前有四种颜色可供选择——午夜黑、海洋蓝、金属铜、薰衣草紫，还不清楚国行版本是否会同步推出该配色。
+
+　　配置方面，三星Note 9采用6.4英寸Super AMOLED QHD屏，支持microSD卡扩展，配备了4，000mAh的电池，后置1200万像素（主摄、广角）+1200万像素（副摄，长焦）双摄，主摄支持f/2.4和f/1.5两个光圈之间进行智能切换，副摄支持2倍光学变焦。
+　　其他硬件配置方面，三星Note9搭载了高通骁龙845处理器，提供6GB RAM+128GB ROM和8GB RAM+512GB ROM两种存储组合选择。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

@@ -1,0 +1,19 @@
+           江苏争取开展跨境电商网购保税+线下自提新模式试点
+
+
+　　从江苏省商务厅获悉,为撬动进口市场，优化进口商品结构,满足消费升级需求,江苏省发布《省政府办公厅关于促进进口的实施意见》,通过优化进口商品结构、积极培育进口主体、推进平台载体建设、优化国际市场布局、强化财税金融支持、推进贸易便利化等六方面20条政策,进一步促进进口。实施意见提出推进苏州、南京、无锡国家级跨境电子商务综合试验区建设,加快发展跨境电商零售进口业务,争取开展跨境电商“网购保税+线下自提”新模式试点。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

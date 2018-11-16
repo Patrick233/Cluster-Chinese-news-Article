@@ -1,0 +1,38 @@
+           摩托Motorola One登陆美国市场：搭载骁龙625处理器
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　今天，摩托罗拉移动宣布Motorola One将登陆美国市场进行销售。
+　　Motorola One是一款摩托罗拉于8月份发布的中端手机，隶属于谷歌Android One计划。
+　　摩托罗拉之前涉足过Android One系列，发布了一款Android One版本的Moto X4，Android One的最大特点是原生系统，以及承诺2次Android大版本更新。
+　　Motorola One搭载了5.9英寸1520x720分辨率屏幕，骁龙625处理器，4GB内存，后置1300万像素双摄，前置800像素单摄，电池3000毫安时。
+　　由于宽大的屏幕刘海+后置竖排双摄，Motorola One也被外媒们诟病为iPhone X的模仿者。
+　　Motorola One在美国定价399.99美元，约合人民币2700元，预计11月11日正式推出。
+　　值得一提的是，Motorola One也是Moto手机正式回归Motorola品牌的首款产品，是不是有种熟悉的感觉呢？
+
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

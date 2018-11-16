@@ -1,0 +1,19 @@
+           日常坑用户之Windows 10未提醒夏令时变更
+
+
+近日，微软悄然给 Windows 10 带来了一项变动 —— 系统时钟不再给出夏令时（DST）提醒。作为 Windows 7 / 8.1 上的一项特性，此举引发了大量的争议。 在夏令时更新前夕，Windows 10 上的“日期和时间”功能模块没有显示提示信息。对于习惯了旧版 Windows 体验的用户来说，这带来了很大的不便。Windows 10 不再给出夏令时（DST）提醒需要指出的是，这一变化并不是充满了 bug 的 Windows 10“2018 十月更新”（1809）的一部分。微软尚未就此事发表评论，所以我们无法预知这是否是预期行为，还是程序员疏忽了在 UI 中添加提醒。要微软解决这个问题并不困难，怕就怕该公司悄无声息地就把这项特性给删除了。[编译自： Softpedia ]
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

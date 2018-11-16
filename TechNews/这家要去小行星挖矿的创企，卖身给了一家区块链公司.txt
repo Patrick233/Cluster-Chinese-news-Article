@@ -1,0 +1,31 @@
+           这家要去小行星挖矿的创企，卖身给了一家区块链公司
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+IT之家11月4日消息 Planetary Resources是一家太空创企，据科技博客TechCrunch消息，这家创企本周被总部位于纽约布鲁克林的区块链公司ConsenSys收购。ConsenSys的创始人Joe Lubin对此表示，将“为太空去中心化努力”。这位创始人也曾帮助了以太坊的创立。Planetary Resources首席执行官Chris Lewicki对此表示：“我为团队的非凡成就感到自豪，感谢我们富有远见的支持者，并很高兴加入ConsenSys建立我们的工作，将人类的经济影响范围扩展到太阳系。”Lewicki曾是NASA喷气推进实验室（JPL）的一员。Planetary Resources以Arkyd Astronautics之名于2010年成立，被认为是私有化太空公司的亮点，谷歌创始人拉里·佩奇、埃里克·施密特等人都曾投资该公司。然而今年早些时候，Planetary Resources在最近的一轮融资未取得成功后，随后表示将削减开支，并在重新考虑公司的方针。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

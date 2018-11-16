@@ -1,0 +1,35 @@
+           统计显示iPhone印度销量暴跌：同比减幅达13
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　本周公布的苹果三季度财报（2018第四财季）显示，iPhone销量仅有略微增长，不过，由于均价抬升，iPhone带来的营收依然实现了两位数的强势增长，不过，盘后苹果的股价出现最高10%的跌幅。
+　　对于苹果来说，欧美等发达地区市场的地位较为稳固，可一直以来做得不那么出色的工作就是在价格敏感市场的经营，比如印度市场。
+　　据外媒报道，统计机构Counterpoint经检查渠道库存，给出苹果本季度（2018Q4）70~80万的出货量，比一年前的100万台可谓大幅下跌。
+　　同时，Q3也就是苹果刚公布的财报统计期内，iPhone在印度的销量仅45万台，同比腰斩。糟糕的表现使得苹果2018年在印度总计仅能卖出200万台iPhone，远低于去年的300万台。
+　　不过，库克在财报会议中仍对印度市场表示乐观，他不仅相信印度壮大中的中产阶级之购买力，还认为苹果有能力将Apple Store引进印度。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

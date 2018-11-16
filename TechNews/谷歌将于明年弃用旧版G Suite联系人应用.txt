@@ -1,0 +1,19 @@
+           谷歌将于明年弃用旧版G Suite联系人应用
+
+
+2015 年的时候，谷歌推出了采用 Material Design 设计语言的通讯录（Contacts）Web 应用。现在，该公司已经推出了新的主题，且将很快结束预览。在一篇博客文章（以及发给 G Suite 订阅者的邮件）中，谷歌表示将于 2019 年 2 月之前，淘汰旧款通讯录 Web 应用。虽然非 G Suite 用户尚未得到通知，但预计 Google 会给出相同的安排。 从 2019 年 1 月 15 日起，谷歌将开始默认启用新版通讯录。在一个月的过渡期内，用户仍可选择退至旧版。但在这之后，还是要努力适应新版本，因为旧版入口将在 2 月 15 日被彻底关闭。作为一款集成了 Gmail 邮件服务的管理应用，Contacts Web App 有望与微软重新设计的 Outlook Contacts，在企业市场展开更直接的竞争。[编译自：MSPU] 
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

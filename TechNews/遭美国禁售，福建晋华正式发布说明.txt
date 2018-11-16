@@ -1,0 +1,31 @@
+           遭美国禁售，福建晋华正式发布说明
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+IT之家11月4日消息 上个月底，美国商务部将福建晋华公司加入到《出口管理条例》的实体名单中，根据美国商务部的公告，此次颁布禁令的原因是福建晋华窃取美国半导体公司美光科技的商业机密，涉及该公司存储设备的研发。昨天下午，福建晋华官方发布声明回应，称晋华公司始终坚定走自主研发路线，不断加大投入，晋华公司始终重视知识产权保护工作，不存在窃取其他公司技术的行为。回应如下：官方资料显示， 福建省晋华集成电路有限公司(简称晋华集成电路，JHICC)是由福建省电子信息集团、晋江能源投资集团有限公司等共同出资设立的先进集成电路生产企业。公司与台湾联华电子开展技术合作，投资56.5亿美元，在福建省晋江市建设12吋内存晶圆厂生产线，开发先进存储器技术和制程工艺，并开展相关产品的制造和销售。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

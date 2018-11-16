@@ -1,0 +1,44 @@
+           胶水封装 Intel 48核心首曝：12通道内存
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　AMD处理器这两年步步紧逼，Intel各条产品线都受到了严峻挑战，尤其是在核心数量上，AMD通过模块化设计做到了最多32核心64线程，Intel方面现有架构则最多只有28核心56线程。
+　　雪上加霜的是Intel 10nm工艺进展迟缓，很可能要到明年底才能规模量产，服务器平台上甚至或许会等到2020年，这就连带下代架构也迟迟无法出炉，Intel如果不想点其他办法是不可能在核心规模上战胜AMD了。
+　　之前就有传闻称，Intel可能会通过MCM多芯片封装的方式（俗称“胶水封装”），将两颗处理器合为一体，从而实现更多核心线程。
+　　现在，它成真了！
+
+　　Intel下一代服务器平台代号“Cascade Lake-SP”，将在今年底发布，仍然是14nm工艺、最多28核心56线程。
+　　今天，Intel又宣布了新的“Cascade Lake-AP”，通过两颗Cascade Lake-SP整合封装而成，最多48核心96线程，也就是内部包含两颗24核心56线程芯片。
+　　这样一来，Cascade Lake-AP处理器一颗就相当于之前的双路系统，双路的话则可以最多96核心192线程，但因为本身就相当于双路系统了，很可能不再支持四路扩展。
+　　同时，Cascade Lake-AP还将支持多达12个DDR4内存通道（六通道翻番而来），也超越AMD的八通道，但支持的最大内存容量暂未公布，有望单路最多3TB——AMD最多是2TB。
+　　按照Intel的说法，Cascade Lake-AP 48核心相比于AMD 32核心的EPYC 7601 Linpack性能高出最多2.4倍，Stream Triad领先最多30%。
+
+　　至于为何不做到56核心112线程，很显然是受制于功耗和发热，毕竟工艺还是14nm，另外48核心已经足够远超AMD 32核心，自然暂时没太大必要做更多。
+　　不过有传闻称，AMD EPYC下一代在7nm新工艺和Zen 2新架构的加持下，有望做到单路64核心128线程，Intel又会面临更大的压力，想反击就只能尽快把10nm搞出来了。
+　　顺带预告一下，AMD将在明天深夜公布7nm GPU、CPU的最新情报，届时我们会为大家做现场直播，敬请期待！
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

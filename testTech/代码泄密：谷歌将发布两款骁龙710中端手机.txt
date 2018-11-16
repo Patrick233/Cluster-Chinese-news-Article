@@ -1,0 +1,1 @@
+在最新的ARCore v1.5 APK中，外媒Android Police从其源代码中找到了一些有趣的发现。在新添加的支持设备中，有两个是未知设备，它们的代号是Bonito和Sargo。在列表中，我们看到Mate 20 X，荣耀 8X，荣耀 Magic 2，T-Mobile的一加 6T和小米Mix 3。据悉，Bonito和Sargo是谷歌制造的设备，因为谷歌的设备均以鱼的名字为代号。当然，这也并不能保证就是Google设备，也有可能是诺基亚手机。

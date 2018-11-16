@@ -1,0 +1,38 @@
+           小米9概念渲染图亮相 这设计你给几分？
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　数字系列旗舰一直是小米旗下人气颇高的产品线，虽然早已打破“1999元”的底线，但“发烧”和“高性价比”的标签依然保留了下来。近日，网络上流传出一组疑似小米9的概念设计渲染图，不知道单凭外观，它会不会成为你的下一款手机呢？
+微博截图
+　　如图，这款小米9概念手机在原来刘海屏的基础上演变成水滴屏，下巴较窄，提升正面屏占比。背面的设计和小米8几乎一样，左上角配备双摄，整个机身没有实体指纹键，应该配备了屏下指纹技术。配色上，该机拥有黑、白、金和蓝等版本，其中金色为前白后金。
+小米9概念渲染图（图源微博）
+小米9概念渲染图（图源微博）
+小米9概念渲染图（图源微博）
+小米9概念渲染图（图源微博）
+　　按照小米8的发布时间判断，小米9亮相应该还有约半年时间。水滴屏和双摄的造型设计仅仅是当下的流行元素，产业链消息称，每年春季开始，屏下摄像头技术有望应用，不管水滴屏还是刘海屏，都可能会变成历史。此外，小米9更有可能后置三摄，毕竟三摄将成为旗舰机主流。综合来看，这款小米9概念设计还是不太超强啊。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

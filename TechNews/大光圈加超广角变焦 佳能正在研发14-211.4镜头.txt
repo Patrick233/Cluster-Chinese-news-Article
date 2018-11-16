@@ -1,0 +1,34 @@
+           大光圈加超广角变焦 佳能正在研发14-211.4镜头
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　本文来自太平洋电脑网
+　　这次佳能要来真的了，继上次RF 28-70mm F2镜头这么猛的配置足以让人惊喜，如今佳能将要推出RF卡口的14-21mm F1.4超大光圈和超大广角的镜头，真让人兴奋。
+
+　　目前佳能会把大量的工作重点，都放在自家的全画幅专微EOS R相机上，新的这款RF镜头应该下年就会来到。除此之外，该专利还提及了RF 16-35mm f2.8L以及RF 12-20mm f2L镜头，相信会同期推出。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

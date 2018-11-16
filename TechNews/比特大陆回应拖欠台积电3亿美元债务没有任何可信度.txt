@@ -1,0 +1,22 @@
+           比特大陆回应拖欠台积电3亿美元债务没有任何可信度
+
+
+　　相关新闻：
+　　外媒：比特大陆拖欠台积电3亿美元债务
+　　PingWest品玩11月5日讯，据Coingeek消息，Bitmain将不再从其主要芯片供应商台积电获取芯片。据知情人士消息，比特大陆之前欠下台积电10亿美元债务，但只能支付7亿美元，无法偿还剩余债务。
+　　对此，比特大陆回应称，Coingeek持续恶意对我司编造品格低下的谣言，其内容没有任何可信度。 
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

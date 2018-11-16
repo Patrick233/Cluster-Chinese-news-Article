@@ -1,0 +1,24 @@
+           宣布收购红帽仅一周 罗睿兰又增持300万美元IBM股票
+
+
+
+　　新浪科技讯 北京时间11月6日凌晨消息，根据美国证券交易委员会（SEC）周一的披露和公司声明，IBM首席执行官罗睿兰（Ginni Rometty）购买了该公司300万美元的股票。这一购买行为仅仅距IBM宣布以340亿美元收购开源软件分销商红帽（Red Hat）之后一周。
+　　据IBM称，大约100万美元的股票是在公开市场上购买的。这是罗睿兰首次在公开市场上购买股票。另外200万美元的价值是通过退休基金购买的。
+　　IBM告诉财经媒体CNBC，罗睿兰现在持有该公司股票超过314,000股。以周一IBM的开盘价计算，这部分股票的价值超过3600万美元。
+　　周一早盘，IBM股价上涨约3％，收于119美元左右，扭转了上周的一些损失。由于整体市场动荡以及该公司拟收购红帽的问题，上周IBM股价下跌超过7％。
+　　根据监管文件，其他几位董事会成员和IBM高管周一同时购买了IMB公司的股票。（晓楠）
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

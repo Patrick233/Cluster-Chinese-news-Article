@@ -1,0 +1,19 @@
+           苹果推出新服务：2011年的老设备也能获得维修
+
+
+　　据外媒9to5Mac报道，苹果正在进行一项名为“Repair Vintage Apple Products Pilot”的试点计划，专门为“古董级”的苹果设备提供维修服务，不过如果没有库存零件，苹果公司将保留拒绝维修的权利。　　该试点计划意味着，你手里那些老掉牙的苹果设备，都有可能纳入苹果官方及其授权服务供应商的维修范围。　　据了解，此前苹果设备推出5-7年后就会被划入淘汰行列，苹果不再提供组件，也不再提供维修服务，这一试点项目有望改变老设备的命运。　　外媒The Verge认为，延长维修时限绝对是一件好事，但苹果限制性的维修条件，导致那些明明可以被修好的设备，依旧面临被丢弃的命运，毕竟苹果设备仅允许官方及其官方授权服务商来维修。　　据报道，目前已纳入维修范围的设备包括：　　iPhone 5(GSM/CDMA)　　MacBook Air(11英寸，2012年年中)　　MacBook Air (12英寸，2012年年中)　　iMac(21.5英寸，2011年中，只限美国和土耳其)　　iMac(27英寸，2011年中，只限美国和土耳其)　　11月30日起，将被纳入维修范围的设备包括：　　iPhone 4S　　MacBook Pro(15英寸，2012年中)　　12月30日起，最后一批设备将纳入维修范围，包括：　　MacBook Pro(Retina，13英寸，2012年末)　　MacBook Pro (Retina，13英寸，2013年年初)　　MacBook Pro(Retina，2012年年中)　　Mac Pro(2012年年中)　　iPhone 5(GSM) 
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

@@ -1,0 +1,40 @@
+           全新的快门键设计 徕卡Q-P本周或将发布
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　本文来自蜂鸟网
+　　此前我们曾从LeicaRumors的消息中得知，徕卡新款限量版相机徕卡Q-P即将于十月份发布，不过十月都过去了，这台相机还是迟迟未出现。目前我们又得到最新消息，徕卡Q-P很有可能将于11月6日在纽约举办的PhotoPlus展会上正式发布，关于这台即将发布的徕卡新机，徕卡Q-P在参数规格上与普通版徕卡Q相机可能完全相同，但限量版的徕卡Q-P却采用了全新设计的快门键、在机身顶部及底板采用了深灰色亚光涂料，以及取消了徕卡机身正面的“可乐标”。关于发布时间，新机可能将于十月底在纽约举行的PhotoPlus展会上发布，当然也有可能会在11月初发布。据了解，新机预计售价为4600欧元（折合人民币32000元）。
+徕卡Q-P机身正面（谍照）
+徕卡Q-P机身背面（谍照）
+徕卡Q-P机身斜侧面（谍照）
+徕卡Q-P机身顶部（谍照）
+徕卡Q-P配备了皮革肩带 （谍照）
+机身细节：全新的快门键设计（谍照）
+　　·编辑观点：
+　　徕卡Q是徕卡发布于2015年6月的一款全画幅旁轴相机，采用了一块2400万像素的全画幅传感器，同时搭配经典Summilux 28mm f/1.7固定镜头，可以满足摄影用户对街头、人文、建筑以及风光摄影的需求。最近，徕卡Q这款相机总以各种形式被推出联名版、特别版以及限量版，这些已经发布或即将发布的“新机”都是从外观方面入手，进行各种富有个性的雕琢，而即将发布的徕卡Q-P同样如此。从曝光外观上看，徕卡Q-P与近期徕卡新推出的机型一样，取消了经典的“可乐标”，以更为低调的外观满足不同人群的需要。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

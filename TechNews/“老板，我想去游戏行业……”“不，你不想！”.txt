@@ -1,0 +1,19 @@
+           “老板，我想去游戏行业……”“不，你不想！”
+
+
+21世纪商业评论   游戏是很多人的童年回忆，因为情怀和理想，不少年轻人投身到轰轰烈烈的游戏产业。他们往往月薪过万，日子滋润，背后却有外人所不知的苦与累。 （来源：21世纪商业评论） 
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

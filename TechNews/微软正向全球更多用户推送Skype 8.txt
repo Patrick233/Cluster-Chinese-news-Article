@@ -1,0 +1,44 @@
+           微软正向全球更多用户推送Skype 8
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　本文来自cnBeta.COM
+　　早前有报道称，微软将于今秋停止对经典版 Skype 应用程序的支持。Skype 与 Outlook 设计总监 Peter Skillman 在推特上宣布，该公司正在向全球各地的用户推送新版 Skype 8 。其带来了一些新颖的内置功能，比如期待已久的通话录音，以及其它新功能和易用性改进。
+
+　　在登录屏幕上，新版 Skype 会显示当前的版本号。此外，开发团队为辅助振铃设备引入了新的选项、以及面向网络摄像头的进阶设置。
+
+当 Skype 用户激活免打扰模式时，用户可以启用新的来电通知功能，比如将群组通话中的参与者静音或移除、或者隐藏聊天列表中的会话。
+桌面上的文本大小，亦可在 Skype 8 中作出调整；全局会话搜索，现可显示超过 20 个结果；按回车可发送消息、添加一行、以及禁用链接预览。
+
+
+　　微软还对文件的拖放分享选项进行了一些改进，同时改善了桌面上的可用状态。用户现可直接将某个号码加为联系人，而无需保存特定的号码名称。
+
+该公司正在努力让 Skype 8 的功能可与经典版平起平坐，在最近的更新中，其已支持分屏视图。
+微软表示，其正在酝酿多个新特性，它们将很快被加入 Skype 应用。
+
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

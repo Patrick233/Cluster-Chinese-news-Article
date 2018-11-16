@@ -1,0 +1,19 @@
+           英特尔CPU又曝新漏洞，AMD或也遭殃
+
+
+  新智元报道  来源：ZDNet编辑：文强【新智元导读】英特尔处理器又曝新漏洞，攻击者能从CPU的内部处理过程中获取加密数据。研究人员怀疑AMD的产品或许也未能幸免。研究人员再次发现英特尔CPU的一项漏洞，这个代号“PortSmash”的问题能够从并行的CPU或内存中泄露保密数据，AMD产品也被怀疑存在同样的漏洞。PortSmash由芬兰坦佩雷理工大学和古巴哈瓦那技术大学的5名研究人员发现。他们将PortSmash归类为“旁路攻击”（side-channel attack），这是一种从计算机内存或CPU中获取加密数据的攻击。攻击者通过记录和分析操作时间、功耗、电磁泄漏甚至声音的差异来得到相关信息，而这些信息可能有助于破坏计算机的加密算法并恢复CPU的处理数据。研究人员表示，PortSmash会影响使用同时多线程（SMT）架构的所有CPU，SMT技术允许在CPU核心上同时执行多个计算线程。简单说，攻击的原理是就在在使用SMT并行线程运行功能的合法的处理器旁边运行一个恶意进程。这个恶意PortSmash进程会导致处理器泄露少量数据，从而帮助攻击者重建该处理器在合法进程内处理的加密数据。研究人员表示，他们已经确认PortSmash会影响英特尔的CPU，后者支持该英特尔的超线程（Hyper-Threading，HT）技术，这是英特尔专有的SMT实现。“我们的攻击与内存子系统或缓存无关，”五位研究人员之一的Billy Brumley在接受ZDNet采访时表示。“数据泄漏的本质是由于SMT（例如超线程）架构上的执行引擎共享，而执行引擎是虚拟机的核心组成之一。更具体地说，我们检测端口争用（port contention），构建一个时序侧通道，以便从同一物理内核的并行进程中泄露信息。”Brumley说。Brumley将一篇详细介绍PortSmash漏洞的研究论文发布在了密码学预印版电子文库Cryptology ePrint Archive protal上。他的团队还在GitHub上发布了概念验证（PoC）代码，演示了对英特尔Skylake和Kaby Lake CPU的PortSmash攻击。PoC成功通过PortSmash从TLS服务器窃取了一个OpenSSL（<= 1.1.0h）P-384密钥，但是这种攻击还可以被修改，针对其他任何类型的数据。PortSmash PoC需要恶意代码在与被攻击处理器相同的物理核心上运行，但这对攻击者来说并不是一个很大的障碍。“IaaS [基础设施即服务] 就是一种情况，”Brumley告诉ZDNet：“在这种情况下，攻击者会试图与目标处理器共同定位虚拟机，最终在与目标处理器相同的物理核心上运行漏洞，但两者的逻辑核心不同。”“PortSmash完全不需要root权限，”他说：“只要有用户空间就行了。”研究人员表示，他们在10月1日就通知了英特尔的安全团队，但该公司11月1日才开始提供补丁，这是也是Brumley等研究人员公布他们研究结果的日期。研究人员在论文中表示，“我们将在未来的工作中探索PortSmash在其他采用SMT的架构上的功能，特别是在AMD Ryzen系统上。”但Brumley通过电子邮件告诉ZDNet记者，他强烈怀疑AMD CPU也受此影响。去年，另一组研究人员发现了一个名为TLBleed的旁路攻击漏洞，影响了英特尔的超线程（SMT）技术。发现TLBleed后，OpenBSD项目决定在即将推出的OpenBSD操作系统版本中禁用对英特尔HT技术的支持。“这是我们把漏洞公开出来的主要原因——为了表明旁路攻击很容易，”Brumley表示：“这样做也有助于消除芯片中的SMT趋势。”“安全和SMT是相互排斥的概念，”他补充说：“我希望我们的工作督促用户在BIOS中禁用SMT，或者选择将钱花在没有SMT功能的架构上。”
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+

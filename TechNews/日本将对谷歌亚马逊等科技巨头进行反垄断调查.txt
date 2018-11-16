@@ -1,0 +1,37 @@
+           日本将对谷歌亚马逊等科技巨头进行反垄断调查
+
+
+.tech-quotation{padding:20px 20px 0px;background:url(//n.sinaimg.cn/tech/content/quote.png) no-repeat 0 0 #f4f4f4;margin-bottom:30px;}
+.tech-con p{margin-bottom:30px}
+.tech-con p a:visited{color: #4b729f !important;}
+
+
+
+
+　　新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧~！下载客户端还能获得专享福利哦！
+
+
+
+
+　　据报道，日本反垄断监管机构准备明年启动对美国谷歌、亚马逊公司等技术类企业的调查，以确认这些国际互联网巨头在日本市场是否利用行业优势地位剥削供应商、打压竞争对手。
+amazon（图片来源streeteasy）
+　　现在谷歌、亚马逊、Facebook等美国科技业巨头，对于全球经济、社会的影响力越来越大，也引发了多国政府阻碍市场竞争的忧虑。此前，欧盟委员会已经对谷歌开出了几十亿美元的天价罚单。
+　　而日本也是互联网大国，包括谷歌、亚马逊、Facebook在内的几乎所有美国网络巨头都已经在日本推出了本地化的服务。
+　　日本政府公平贸易委员会的负责人杉本和行在接受日本媒体采访时表示，这次反垄断调查将在明年启动。杉本说：“我们会调查这些‘平台’是否阻碍日本企业的技术创新。”还表示“如有必要”，将约谈企业和它们合作伙伴的管理人员，或要求对方提供材料。
+　　今年三月份，公平交易委员会突击搜查亚马逊在日本首都东京的日本分公司总部，因为有媒体报道，亚马逊日本公司以不恰当的方式要求本地供应商支付费用，亚马逊甚至威胁本地供应商，如果不支付费用将终止合作。
+　　之前，欧盟委员会对美国科技公司的反垄断调查和处罚达到了一个高峰。欧盟委员会对谷歌公司两次开出巨额罚单，分别对谷歌在网页搜索和安卓操作系统存在的不公平竞争行为进行了处罚（安卓反垄断案的罚款高达50亿美元）。
+
+
+
+
+
+
+
+                        (function(){
+                            var adScript = document.createElement('script');
+                            adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/wenjing8/js/yl_left_hzh_20171020.js';
+                            document.getElementsByTagName('head')[0].appendChild(adScript);
+                        })();
+                    
+
+
