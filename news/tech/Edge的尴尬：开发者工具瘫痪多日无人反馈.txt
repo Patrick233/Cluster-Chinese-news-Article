@@ -1,2 +1,0 @@
-来源：cnBeta目前Edge在桌面浏览器中的占比只有4%左右，这也是为何在安装近期发布Windows 10累积更新之后，Edge开发工具无法使用也没有人反馈的原因。今年10月24日，微软面向Windows 10四月更新发布了累积更新KB4462933，当时并没有任何已知问题。不过援引外媒Windows Lastest报道，微软近日对KB4462933页面进行了修正，添加了两个已知问题。其中之一就是安装该累积更新之后，Edge浏览器的开发者工具无法正常工作。该问题描述如下：
-症状：开发者工具（F12）无法在Edge浏览器中启动临时解决方案：使用管理员权限，删除以下文档并重启开发者工具：在64位设备上：C:\Windows\SystemApps\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe\microsoft.system.package.metadata\Autogen\JSByteCodeCache_64在x86设备上：C:\Windows\SystemApps\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe\microsoft.system.package.metadata\Autogen\JSByteCodeCache_32

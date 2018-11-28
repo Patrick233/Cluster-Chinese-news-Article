@@ -1,1 +1,0 @@
-来源：cnBeta从Microsoft Garage成功孵化的“Kaizala”应用，起初是只面向印度市场的生产力工具。但随着分销范围的扩大，微软近日表示将Kaizala的专业版纳入到全球Office 365商业计划中，而且用户不需要额外支付费用。目前Kaizala已经在Android和iOS平台上线，可以通过Google Play商店和苹果App Store进行免费下载。在没有纳入Office 365商业计划之前，Kaizala的专业版本需要用户每月支付1.5美元的费用。专业版Kaizala提供了更多的群组管理，高级报告、分析以及其他免费版所没有的功能。

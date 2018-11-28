@@ -2,7 +2,9 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 import os
 import jieba
-
+from sklearn.decomposition import PCA
+from sklearn.decomposition import TruncatedSVD
+import numpy as np
 
 
 def buildTFIDF():
@@ -50,8 +52,14 @@ def buildTFIDF():
     # step 4
     tfidf = tfidf_transformer.transform(X)
     ndarray = tfidf.toarray()
-    print(ndarray)
     print(ndarray.shape)
+    # pca = PCA(n_components=1000, svd_solver="full")
+    # pca.fit(ndarray)
+    # print(pca.explained_variance_ratio_)
+    # print(np.sum(pca.explained_variance_ratio_))
+    svd = TruncatedSVD(n_components=1500, algorithm='randomized')
+    svd.fit(ndarray)
+    print(svd.explained_variance_ratio_.sum())
 
 if __name__ == "__main__":
     buildTFIDF()

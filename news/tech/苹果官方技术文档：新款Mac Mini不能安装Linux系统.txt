@@ -1,3 +1,0 @@
-来源：cnBeta在10月底召开的新品发布会上，包括Mac Mini在内的新硬件上都装备了苹果T2安全芯片。作为Secure Enclave协处理器，能够为APFS加密磁盘、安全启动和Mac端的Touch ID提供基础安全保护。不过根据苹果官方公布的技术文档，T2安全芯片并不支持Linux系统。在文档中苹果解释道：
-在默认情况下，支持安全启动的Mac设备仅信任苹果签名的内容。不过，为了提高Boot Camp安装的安全性，也为Windows系统提供了安全启动。UEFI固件中包含了用于验证微软BootLoaders的Microsoft Windows Production CA 2011证书副本。注意：目前并没有为Microsoft Corporation UEFI CA 2011（由微软合作伙伴签署验证的代码）提供信任。UEFI CA通常用于验证Linux发行版本等其他操作系统引导加载程序的可信度。简单来说，得益于Microsoft Windows Production CA 2011证书，这些装备苹果T2安全芯片的设备能够安装微软的Windows系统，但是不能安装诸如Linux Mint或者Ubuntu这样的Linux发行版本。不过有用户指出可以在装备T2安全芯片的设备上禁用安全启动功能，以便于安装Linux发行版本。首先用户需要访问Startup Security Utility，然后访问“No Security”选项，具体操作如下：
-1.Mac开机在看到苹果LOGO之后，立即长按Command (⌘)-R来启动macOS的Recovery2.在macOS Utilities窗口,从菜单栏上选择Utilities > Startup Security Utility

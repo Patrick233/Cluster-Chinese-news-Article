@@ -1,1 +1,0 @@
-根据外媒phone Arena的报道，直到2018年夏季，三星的DeX还只能通过DeX Pad 或者是 DeX Station连接。将三星S系列或者是Note系列的手机插进去，连上显示器，键盘和鼠标就能获得不错的PC界面体验。phone Arena表示，根据内部人员泄露，三星S9和S9+将会得到无Dock连接DeX的升级，只需一个USB Type-C转HDMI线就能搞定了。
