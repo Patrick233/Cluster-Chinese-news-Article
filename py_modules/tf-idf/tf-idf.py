@@ -8,7 +8,7 @@ import numpy as np
 
 
 def buildTFIDF():
-    folder = "../../news/sports"
+    folder = "../../news/after_process"
     corpus = []
     count = 0
     """
@@ -16,13 +16,16 @@ def buildTFIDF():
     a string of words seperated by "\\b" 
     """
     for file in os.listdir(folder):
-        filepath = os.path.join(folder, file)
-        f = open(filepath, 'r')
-        article = f.read()
-        segment_list = jieba.cut(article, cut_all=False)
-        splitted = " ".join(segment_list)
-        corpus.append(splitted)
-        f.close()
+        try:
+            filepath = os.path.join(folder, file)
+            f = open(filepath, 'r')
+            article = f.read()
+            segment_list = jieba.cut(article, cut_all=False)
+            splitted = " ".join(segment_list)
+            corpus.append(splitted)
+            f.close()
+        except:
+            continue
 
     """
     Build TF-IDF using CountVectorizer, splitting words by spaces
