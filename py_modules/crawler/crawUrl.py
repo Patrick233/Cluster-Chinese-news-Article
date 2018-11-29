@@ -21,7 +21,7 @@ def download(title, url, m):
         if tag == None:
             continue
 
-    filename = r'/Users/Patrizio/Desktop/neu/cs6220/project/testFashion/' + title + '.txt'
+    filename = r'/Users/Patrizio/Desktop/neu/cs6220/project/news/tech/' + title + '.txt'
 
     try:
         with open(filename, 'w') as file_object:
@@ -39,10 +39,10 @@ def download(title, url, m):
 def findCat():
     lst = ['ent', 'sports', 'tech', 'edu', 'health', 'fashion']
     # base_url = 'https://interface.sina.cn/ent/feed.d.json?ch={}&col=ent&act=more&show_num=100&page={}&isLongTitle=true'
-    url = 'https://interface.sina.cn/ent/feed.d.json?ch=fashion&col=ent&act=more&show_num=100&page={}&isLongTitle=true'
+    url = 'https://interface.sina.cn/ent/feed.d.json?ch=tech&col=ent&act=more&show_num=100&page={}&isLongTitle=true'
     print (url)
     s = set()
-    for i in range(1,100):
+    for i in range(54,100):
         page = url.format(i)
         y = 0
         print (page)
