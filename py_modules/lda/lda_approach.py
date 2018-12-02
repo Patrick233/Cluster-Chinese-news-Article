@@ -2,10 +2,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 import os
 import jieba
-from sklearn.decomposition import PCA
-from sklearn.decomposition import TruncatedSVD
-import numpy as np
-import lda
+from sklearn.decomposition import NMF, LatentDirichletAllocation
 
 
 def build_word_bags():
@@ -28,32 +25,26 @@ def build_word_bags():
         except:
             continue
 
-    """
-    Build TF-IDF using CountVectorizer, splitting words by spaces
-    """
-    # step 1
-    vectorizer = CountVectorizer(min_df=1, max_df=1.0, token_pattern='\\b\\w+\\b')
-    # step 2
-    vectorizer.fit(corpus)
-    # step 3
-    bag_of_words = vectorizer.get_feature_names()
-    # print("Bag of words:")
-    # print(bag_of_words)
-    # print(len(bag_of_words))
-    # step 4
-    X = vectorizer.transform(corpus)
-    # print("Vectorized corpus:")
-    # print(X.toarray())
-    # step 5
-    return X
+    return corpus
+
+def display_topics(model, feature_names, no_top_words):
+    for topic_idx, topic in enumerate(model.components_):
+        print "Topic %d:" % (topic_idx)
+        print " ".join([feature_names[i]
+                        for i in topic.argsort()[:-no_top_words - 1:-1]])
 
 if __name__ == "__main__":
-    doc_word_max = build_word_bags()
-    model = lda.LDA(n_topics=5, n_iter=500, random_state=1)
-    print("\n Fit LDA to data set")
-    model.fit_transform(doc_word_max)
+    no_top_words = 10
+    tf_vectorizer = CountVectorizer(max_df=0.95, min_df=2)
+    tf = tf_vectorizer.fit_transform(build_word_bags())
+    tf_feature_names = tf_vectorizer.get_feature_names()
 
-    print("\n Obtain the words with high probabilities")
-    topic_word = model.topic_word_  # model.components_ also works
+    lda = LatentDirichletAllocation(n_topics=no_top_words, max_iter=50, learning_method='online', learning_offset=50.,
+                                    random_state=0).fit(tf)
+
+    print("\n Fit LDA to data set")
+    display_topics(lda, tf_feature_names, no_top_words)
+
+
 
 
