@@ -6,9 +6,17 @@ import numpy as np
 import os
 from sklearn.cluster import KMeans
 
-tf_vectorizer = CountVectorizer(max_df=0.95, min_df=2)
+stop_words_path = "../stop_words.txt"
+stop_words_f = open(stop_words_path, 'r')
+stop_words_content = stop_words_f.read()
+
+stop_words_list = stop_words_content.splitlines()
+stop_words_f.close()
+
+tf_vectorizer = CountVectorizer(max_df=0.95, min_df=2, stop_words=stop_words_list)
 tf = tf_vectorizer.fit_transform(lda_approach.build_word_bags())
 tf_feature_names = tf_vectorizer.get_feature_names()
+
 
 def get_class(x):
     """
@@ -58,7 +66,6 @@ def kmeans_purity(labels):
 
 
 def load_models(dir_name):
-
     for file_name in os.listdir(dir_name):
         print ("Evaluating model {}".format(file_name))
         if file_name.find('.pickle') != -1:
@@ -71,9 +78,10 @@ def load_models(dir_name):
             print (np.sum(data[-1:]))
             kmeans(data)
 
+
 def kmeans(data):
     if data.shape[1] == 6:
-        assignment =  np.arange(data.shape[0])
+        assignment = np.arange(data.shape[0])
         for i in range(data.shape[0]):
             max_j = 0
             for j in range(data.shape[1]):
@@ -86,6 +94,7 @@ def kmeans(data):
         cluster = KMeans(n_clusters=6, random_state=34312, n_init=5, n_jobs=-1).fit(data)
         print (cluster.labels_.shape)
         kmeans_purity(cluster.labels_)
+
 
 if __name__ == "__main__":
     dir_name = './'
