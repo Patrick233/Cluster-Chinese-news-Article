@@ -6,7 +6,7 @@ from sklearn.decomposition import NMF, LatentDirichletAllocation
 
 
 def build_word_bags():
-    folder = "../../after_process"
+    folder = "../../news/after_process"
     corpus = []
     count = 0
     """
