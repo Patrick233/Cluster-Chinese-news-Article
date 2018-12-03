@@ -1,5 +1,7 @@
+.ipynb_checkpoints
 .DS_Store
 .xml
 .iml
 .idea
 news
+LowDimData.txt
