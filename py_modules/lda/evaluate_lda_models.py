@@ -64,6 +64,7 @@ def load_models(dir_name):
         if file_name.find('.pickle') != -1:
             print ("Loading lda model {}".format(file_name))
             lda = pickle.load(open("{}/{}".format(dir_name, file_name), 'rb'))
+            lda_approach.display_topics(lda, tf_feature_names, 10)
             data = lda.transform(tf[:])
             print (data.shape)
             # print (data[-5:])
