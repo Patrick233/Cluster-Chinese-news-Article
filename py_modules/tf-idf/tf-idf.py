@@ -44,7 +44,6 @@ def buildTFIDF():
     # print("Vectorized corpus:")
     # print(X.toarray())
     # step 5
-    # print("index of `的` is : {}".format(vectorizer.vocabulary_.get('的')))
     # step 1
     tfidf_transformer = TfidfTransformer()
     # step 2
@@ -60,9 +59,9 @@ def buildTFIDF():
     # pca.fit(ndarray)
     # print(pca.explained_variance_ratio_)
     # print(np.sum(pca.explained_variance_ratio_))
-    svd = TruncatedSVD(n_components=1500, algorithm='randomized')
-    svd.fit(ndarray)
-    print(svd.explained_variance_ratio_.sum())
+    # svd = TruncatedSVD(n_components=1500, algorithm='randomized')
+    # svd.fit(ndarray)
+    # print(svd.explained_variance_ratio_.sum())
 
 if __name__ == "__main__":
     buildTFIDF()
