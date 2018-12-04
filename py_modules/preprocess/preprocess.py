@@ -19,11 +19,12 @@ def pre_process(file, dir_name, idx):
     for line in f:
         line = line.decode("utf8")
         result = re.sub("[\s+\.\!\/_,$%^*(+\"\']+|[+——！，。？、~@#￥%……&*（）]+".decode("utf8"), "".decode("utf8"), line)
+        result = re.sub("[\u4e00-\u9fa5]", "", result)
         result = re.sub(r'[0-9]+', '', result)
         result = result.replace(" ", "")
         doc += result
 
-    dest = "/Users/Patrizio/Desktop/neu/cs6220/project/after_process/{}".format(idx)
+    dest = "/Users/Patrizio/Desktop/neu/cs6220/project/new_process/{}".format(idx)
     print (dest)
     with open(unicode(dest, "utf8"), "w") as filehandle:
         lines = filter(lambda x: x.strip(), doc)

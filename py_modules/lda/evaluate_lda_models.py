@@ -6,7 +6,7 @@ import numpy as np
 import os
 from sklearn.cluster import KMeans
 
-stop_words_path = "../stop_words.txt"
+stop_words_path = "../../stop_words.txt"
 stop_words_f = open(stop_words_path, 'r')
 stop_words_content = stop_words_f.read()
 
@@ -93,6 +93,7 @@ def kmeans(data):
     else:
         cluster = KMeans(n_clusters=6, random_state=34312, n_init=5, n_jobs=-1).fit(data)
         print (cluster.labels_.shape)
+        print cluster.labels_
         kmeans_purity(cluster.labels_)
 
 

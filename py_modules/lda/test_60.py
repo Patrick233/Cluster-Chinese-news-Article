@@ -67,5 +67,5 @@ if __name__ == "__main__":
 
         print("\n Fit LDA to data set")
         display_topics(lda, tf_feature_names, 10)
-        display_docs(lda.fit_transform(tf[:]), 60)
+        display_docs(lda.transform(tf[:]), 594)
 

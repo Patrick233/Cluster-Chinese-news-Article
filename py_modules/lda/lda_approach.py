@@ -1,12 +1,13 @@
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
+import numpy as np
 import os
 import jieba
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 
 
 def build_word_bags():
-    folder = "../../news/after_process"
+    folder = "../../after_process"
     corpus = []
     count = 0
     """
@@ -32,6 +33,13 @@ def display_topics(model, feature_names, no_top_words):
         print "Topic %d:" % (topic_idx)
         print " ".join([feature_names[i]
                         for i in topic.argsort()[:-no_top_words - 1:-1]])
+
+def display_docs(model, doc_num):
+    doc_topic = model.doc_topic_
+    print(doc_topic, type(doc_topic))
+    for i in range(doc_num):
+        print("{} (top topic: {})".format(i, np.argsort(doc_topic[i])[:-4:-1]))
+
 
 if __name__ == "__main__":
     no_top_words = 10
