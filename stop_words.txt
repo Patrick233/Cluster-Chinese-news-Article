@@ -16,6 +16,9 @@
 啊
 阿
 哎
+a
+p
+ff
 px
 height
 background
@@ -26,6 +29,15 @@ color
 left
 margin
 none
+text
+top
+font
+padding
+border
+right
+block
+hidden
+audio
 哎呀
 哎哟
 唉
@@ -716,6 +728,10 @@ $
 策略地
 差不多
 差一点
+觉得
+这种
+那种
+
 常
 常常
 常言道
@@ -750,6 +766,12 @@ $
 抽冷子
 臭
 初
+现在
+已经
+一起
+一些
+表示
+需要
 出
 出现
 出来
@@ -1215,6 +1237,7 @@ $
 三番五次
 三天两头
 瑟瑟
+已经
 沙沙
 上
 上来
