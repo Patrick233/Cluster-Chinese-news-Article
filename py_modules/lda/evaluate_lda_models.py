@@ -6,7 +6,7 @@ import numpy as np
 import os
 from sklearn.cluster import KMeans
 
-stop_words_path = "../stop_words.txt"
+stop_words_path = "../../stop_words.txt"
 stop_words_f = open(stop_words_path, 'r')
 stop_words_content = stop_words_f.read()
 
@@ -57,10 +57,10 @@ def kmeans_purity(labels):
             percent[k] = -1
         else:
             percent[k] = (_max + 0.0) / total
-        print percent[k]
+        print(percent[k])
         totals[k] = total
     print (dic)
-    # print (percent)
+    print (percent)
     print (totals)
     return percent, totals
 
@@ -70,11 +70,12 @@ def load_models(dir_name):
         print ("Evaluating model {}".format(file_name))
         if file_name.find('.pickle') != -1:
             print ("Loading lda model {}".format(file_name))
+            print("{}/{}".format(dir_name, file_name))
             lda = pickle.load(open("{}/{}".format(dir_name, file_name), 'rb'))
             lda_approach.display_topics(lda, tf_feature_names, 10)
             data = lda.transform(tf[:])
             print (data.shape)
-            # print (data[-5:])
+#             print (data[-5:])
             print (np.sum(data[-1:]))
             kmeans(data)
 

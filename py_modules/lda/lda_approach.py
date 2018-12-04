@@ -27,11 +27,11 @@ def build_word_bags():
 
     return corpus
 
-def display_topics(model, feature_names, no_top_words):
-    for topic_idx, topic in enumerate(model.components_):
-        print "Topic %d:" % (topic_idx)
-        print " ".join([feature_names[i]
-                        for i in topic.argsort()[:-no_top_words - 1:-1]])
+def display_topics(model, feature_names, n_words):
+    for idx, topic in enumerate(model.components_):
+        features = " ".join([feature_names[i]
+                             for i in topic.argsort()[:-n_words - 1:-1]])
+        print("Topic {}: {}".format(idx, features))
 
 if __name__ == "__main__":
     no_top_words = 10
@@ -43,7 +43,7 @@ if __name__ == "__main__":
                                     random_state=0).fit(tf)
 
     print("\n Fit LDA to data set")
-    display_topics(lda, tf_feature_names, no_top_words)
+    display_topics(lda, tf_feature_names, n_words)
 
 
 
