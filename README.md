@@ -1,6 +1,6 @@
-# Project Title
+# Chinese News Articles Clustering
 
-One Paragraph of project description goes here
+Clustering Chinese News Articles by Latent Semantic Analysis and Latent DirichletAllocation
 
 ## Getting Started
 
